@@ -1,5 +1,5 @@
 #Ignore everything
-*
+Chapter*/*
 #unignore specific files.
-!/Chapter_1/**.pdf
-!/Chapter_1/**.tex
+!Chapter*/*.pdf
+!Chapter*/*.tex
