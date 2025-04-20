@@ -3,3 +3,4 @@ Chapter*/*
 #unignore specific files.
 !Chapter*/*.pdf
 !Chapter*/*.tex
+!*.md
